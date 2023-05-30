@@ -94,7 +94,7 @@ int main() {
          break;
 
       case 4:
-        neflix.leerArchivo("  Inventario2.csv");
+        neflix.leerArchivo("Inventario2.csv");
         poliformismo(neflix);
         break;
 
