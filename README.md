@@ -11,7 +11,7 @@
 
 
 # CASOS DE PRUEBA
-
+```
 # Caso 1
 Datos de entrada:
 1
